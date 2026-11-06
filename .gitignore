@@ -1,0 +1,16 @@
+# Maven build files
+target/
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.metadata/
+
+# Operating system files
+.DS_Store
+Thumbs.db

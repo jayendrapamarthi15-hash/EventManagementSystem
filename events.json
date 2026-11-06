@@ -1,0 +1,29 @@
+[ {
+  "eventId" : 10,
+  "eventName" : "java",
+  "eventDate" : "29-10-2026",
+  "location" : "vjw",
+  "ticketPrice" : 200.0,
+  "capacity" : 3
+}, {
+  "eventId" : 11,
+  "eventName" : "java",
+  "eventDate" : "29-10-2026",
+  "location" : "vjw",
+  "ticketPrice" : 200.0,
+  "capacity" : 3
+}, {
+  "eventId" : 12,
+  "eventName" : "java",
+  "eventDate" : "29-10-2026",
+  "location" : "vaddeswaram",
+  "ticketPrice" : 200.0,
+  "capacity" : 3
+}, {
+  "eventId" : 101,
+  "eventName" : "java",
+  "eventDate" : "15-10-2026",
+  "location" : "vjw",
+  "ticketPrice" : 300.0,
+  "capacity" : 2
+} ]
