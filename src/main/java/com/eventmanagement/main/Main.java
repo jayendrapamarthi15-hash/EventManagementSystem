@@ -1,4 +1,3 @@
-
 package com.eventmanagement.main;
 
 import java.util.Scanner;

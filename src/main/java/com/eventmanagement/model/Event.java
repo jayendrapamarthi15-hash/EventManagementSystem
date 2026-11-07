@@ -1,4 +1,3 @@
-
 package com.eventmanagement.model;
 
 import java.util.Objects;
